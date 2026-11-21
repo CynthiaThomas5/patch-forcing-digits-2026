@@ -1,0 +1,2 @@
+Real test SVM hit: 0.994444
+Real test class-conditional variance: 0.170254

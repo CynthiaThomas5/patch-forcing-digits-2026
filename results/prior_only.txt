@@ -1,0 +1,1 @@
+Class prior alone: hit=0.968000, MMD2=0.040362, within_var=0.123173

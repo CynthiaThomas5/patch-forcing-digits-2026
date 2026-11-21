@@ -1,0 +1,15 @@
+{
+  "mode": "pf",
+  "seed": 33,
+  "steps": 3000,
+  "batch": 96,
+  "hidden": 128,
+  "lr": 0.001,
+  "split_seed": 23,
+  "ltg_m": 0.5,
+  "ltg_s": 1.0,
+  "ltg_sigma": 0.2,
+  "nll_weight": 0.01,
+  "variance_floor": 0.02,
+  "seconds": 1.962888900001417
+}
